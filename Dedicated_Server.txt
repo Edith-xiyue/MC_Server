@@ -1,0 +1,11 @@
+Dedicated_Server.txt
+[2023-06-07 16:18:02:538 INFO] Starting Server
+[2023-06-07 16:18:02:538 INFO] Version 1.19.83.01
+[2023-06-07 16:18:02:538 INFO] Session ID 14475bc5-0a37-4ab1-97eb-e4c3bea333e6
+[2023-06-07 16:18:02:538 INFO] Build ID 1.19.83
+[2023-06-07 16:18:02:538 INFO] Branch r/19_u8
+[2023-06-07 16:18:02:538 INFO] Commit ID c184ec32505984a38099320b43fd54425c2e4f5d
+[2023-06-07 16:18:02:538 INFO] Configuration Publish
+[2023-06-07 16:18:02:538 ERROR] Error reading file: server.properties
+[2023-06-07 16:18:02:539 ERROR] Could not load server.properties file, Please check if the current working directory is the same as the bedrock_server directory.
+[2023-06-07 16:18:02:539 INFO] Server stop requested.
